@@ -30,9 +30,5 @@ int main(){
     reverse(arr,5);
     print(arr,5);
 
-    
-
-
-
 return 0;
 }
